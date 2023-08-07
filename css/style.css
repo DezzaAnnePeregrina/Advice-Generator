@@ -49,7 +49,7 @@ main{
     background-color: var(--clr-Dark-Grayish-Blue);
 }
 
-span{
+h1{
     text-transform: uppercase;
     font-size: 0.75rem;
     letter-spacing: 0.25rem;
